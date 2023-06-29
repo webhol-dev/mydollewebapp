@@ -1,0 +1,20 @@
+# list of files not under version control.
+*.class
+*.ear
+*.jar
+*.war
+.classpath
+.factorypath
+.metadata
+.project
+.settings
+/bin
+/build
+/target
+src/main/webapp/META-INF/MANIFEST.MF
+src/main/webapp/WEB-INF/beans.xml
+hs_err_pid*
+local.properties
+derby.log
+/.apt_generated/
+/.apt_generated_tests/
